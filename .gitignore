@@ -1,0 +1,15 @@
+out/
+.venv/
+.venv-cam/
+__pycache__/
+*.pyc
+build/
+dist/
+samples/
+samplesreal/
+import_tests/
+Data90/
+camera_shots/
+*.rdp
+*.rdp.bak
+Testresult/

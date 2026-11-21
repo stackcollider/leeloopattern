@@ -1,0 +1,21 @@
+# LeeLooPattern: the packages of the program (Python 3.14, NOT the Microsoft Store one: it gets "Access is denied" from the camera API).
+#   py -3.14 -m venv .venv-cam
+#   .venv-cam\Scripts\python -m pip install --only-binary=:all: -r requirements.txt
+PySide6
+numpy
+opencv-python
+scipy
+ezdxf
+openpyxl
+pillow
+winrt-runtime
+winrt-Windows.Devices.Enumeration
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Graphics.Imaging
+winrt-Windows.Media.Capture
+winrt-Windows.Media.Capture.Frames
+winrt-Windows.Media.Core
+winrt-Windows.Media.Devices
+winrt-Windows.Media.MediaProperties
+winrt-Windows.Storage.Streams
