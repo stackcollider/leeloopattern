@@ -39,7 +39,8 @@ Installer: `installer/build.ps1` (PyInstaller + Inno Setup 6).
 
 ## Story
 
-How this was built — forty years of experience, and Claude writing the code: *link to the dev.to article*.
+How this was built — forty years of experience, and Claude writing the code:
+[Sewing Patterns Without Writing Code: When Forty Years of Experience Meet Claude](https://dev.to/stackcollider/sewing-patterns-without-writing-code-when-forty-years-of-experience-meet-claude-gf5)
 
 ## License
 
