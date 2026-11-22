@@ -6,6 +6,8 @@ Put a paper pattern piece on a printed sheet under a camera, press **Capture**, 
 
 ![Measure screen](docs/measure.png)
 
+**Video (2:34):** [stand commissioning and measurement](https://www.youtube.com/watch?v=gx1tOTznrew)
+
 ## How it works
 
 - A USB camera looks down at a printed sheet: 10 mm grid, ArUco markers at the edges (`sheets/`).
